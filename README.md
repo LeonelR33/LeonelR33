@@ -18,6 +18,8 @@
 
 <br />
 
+<hr/>
+
 <h3 align="left">Lenguajes de programacion:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -48,18 +50,23 @@
 <h3 align="left">Conecta conmigo:</h3>
 <a href="https://www.linkedin.com/in/leonel-retamar-a8ab6823b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonel-retamar-a8ab6823b/" height="30" width="40" /></a>
 
+</br>
+</br>
+
+<hr/>
 
 <h3 align="left">📊GitHub Stats:</h3>
+
 <p align="left">
 </br>
 </p>
-<p align="left" ">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=leonelr33&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="leonelr33" /></p>
+<p align="left" ">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=leonelr33&show_icons=true&locale=en&layout=compact&theme=merko" alt="leonelr33" /></p>
 </br>
 </br>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonelr33&layout=compact&theme=midnight-purple" alt="leonelr33" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonelr33&layout=compact&theme=merko" alt="leonelr33" /></p>
 </br>
 </br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonelr33&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="leonelr33" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonelr33&show_icons=true&theme=merko&locale=en&layout=compact" alt="leonelr33" /></p>
 </br>
 
 
