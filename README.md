@@ -71,9 +71,10 @@
 </br>
 
 <h1 align="center" >Proyectos</h1>
-
-<a href="https://e-commerce-pf.vercel.app/" rel="nofollow"><img src="./images/pf.png" alt="Proyecto" width="300px" style="max-width: 100%;"></a>
-
+<div align="center">
+<a href="https://e-commerce-pf.vercel.app/" rel="nofollow"><img src="./images/pf.png" alt="ProyectoG" width="400px"></a>
+<a href="" rel="nofollow"><img src="./images/pi.png" alt="ProyectoI" width="400px"></a>
+</div>
 <!--
 **LeonelR33/LeonelR33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
