@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img align="center" alt="nombre" src="https://i.ibb.co/5nLTZH3/portada-git.gif">
 <!--
 **LeonelR33/LeonelR33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
