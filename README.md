@@ -67,7 +67,7 @@
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonelr33&layout=compact&theme=merko" alt="leonelr33" /></p>
 </br>
 </br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonelr33&show_icons=true&theme=merko&locale=en&layout=compact" alt="leonelr33" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonelR33&show_icons=true&theme=merko&locale=en&layout=compact" alt="leonelr33" /></p>
 </br>
 
 
