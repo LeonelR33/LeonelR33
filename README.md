@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, My name is</h1>
 <p align="center"><img align="center" alt="nombre" src="https://i.ibb.co/5nLTZH3/portada-git.gif"><p/>
-<h3 align="center">I am 28 years old and I am a full-stack web developer.</h3>
+<h3 align="center">I'm 28 years old and a full-stack web developer from Argentina.</h3>
 
 <br />
 
-- 🔭 I am currently working on personal projects
-- 🌱 I am learning English and improving my programming knowledge.
+- 🔭 I'm currently working on personal projects.
+- 🌱 I'm learning English and improving my programming knowledge.
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node.js, Sass, Express, PostgreSQL, Sequelize, TypeScript.
-- 📫 You can contact me through my email:: Leonel.Retamar33@gmail.com
+- 📫 You can contact me through my email: Leonel.Retamar33@gmail.com
 
 - 📄 I have collaborated on projects with other developers. If you need assistance, feel free to contact me. :rocket:
 
