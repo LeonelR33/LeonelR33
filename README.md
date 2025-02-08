@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is</h1>
 <p align="center"><img align="center" alt="nombre" src="https://i.ibb.co/5nLTZH3/portada-git.gif"><p/>
-<h3 align="center">I'm 28 years old and a full-stack web developer from Argentina.</h3>
+<h3 align="center">I'm 29 years old, full-stack web developer and computer engineering student at the National University of Avellaneda.</h3>
 
 <br />
 
@@ -12,7 +12,7 @@
 - 📄 I have collaborated on projects with other developers. If you need assistance, feel free to contact me. :rocket:
 
 - ⚡ Fun Fact: During my learning process, I acquired an extraordinary skill, and now I can measure the difficulty of a project based on the number of cups of tea I drink during the first few hours of work. 😄.
-
+<!--
 <br />
 
 <hr/>
@@ -74,7 +74,7 @@
 <a href="https://e-commerce-pf.vercel.app/" rel="nofollow"><img src="./images/pf.png" alt="ProyectoG" width="400px"></a>
 <a href="https://pi-pokemon-lr33.vercel.app/" rel="nofollow"><img src="./images/pi.png" alt="ProyectoI" width="400px"></a>
 </div>
-
+-->
 <!--
 **LeonelR33/LeonelR33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
